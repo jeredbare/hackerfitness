@@ -2,7 +2,7 @@
 
 Hello and welcome!  
 
-[About](https://jeredbare.github.io/hackerfitness/about.md)
+[About](https://jeredbare.github.io/hackerfitness/about)
 
 ### Markdown
 
