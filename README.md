@@ -2,6 +2,8 @@
 
 Hello and welcome!  
 
+[Link](https://jeredbare.github.io/hackerfitness)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
